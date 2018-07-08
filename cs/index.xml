@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jan Hrubes CZ</title>
-    <link>http://example.org/cs/</link>
-    <description>Recent content on Jan Hrubes CZ</description>
+    <title>Jan Hrubeš - Webdesign, optimalizace &amp; konzultace stránek</title>
+    <link>https://jedna.github.io/cs/</link>
+    <description>Recent content on Jan Hrubeš - Webdesign, optimalizace &amp; konzultace stránek</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cs</language>
     
-	<atom:link href="http://example.org/cs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jedna.github.io/cs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
