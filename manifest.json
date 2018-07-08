@@ -1,0 +1,21 @@
+{
+  "name": "Jan Hrubeš",
+  "short_name": "Jan Hrubeš",
+  "icons": [
+      {
+        "src": "/favicon.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "/dist/img/logo-janhrubes.png",
+        "type": "image/png",
+        "sizes": "688x837"
+      }
+      ],
+  "start_url": "/en",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
